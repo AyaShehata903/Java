@@ -1,0 +1,11 @@
+Name,ID,CountrayID,Population,Continent
+Alexandria,E102,E101,5000000,Africa
+Giza,E103,E101,8000000,Africa
+Busan,K102,K101,3000000,Asia
+Istanbul,T102,T101,15000000,Europe
+Izmir,T103,T101,4000000,Europe
+Dukhan,Q102,Q101,11520,Asia
+Cairo,E104,E101,9000000,Africa
+Seoul,K103,K101,10000000,Asia
+Ankara,T104,T101,5000000,Europe
+Doha,Q103,Q101,2000000,Asia
